@@ -1,0 +1,16 @@
+{
+  "name": "setup-professional-backend",
+  "version": "1.0.0",
+  "description": "this is setup for a professional backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "pramod"
+  ],
+  "author": "pramod laha",
+  "license": "ISC"
+}
